@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="6.Arrays and Strings\FirstNonRepeatableCharacter.cs" />
+    <Compile Include="6.Arrays and Strings\RemoveSpecifiedCharacters.cs" />
+    <Compile Include="6.Arrays and Strings\ReverseWords.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

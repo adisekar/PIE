@@ -49,6 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="6.Arrays and Strings\FirstNonRepeatableCharacterTest.cs" />
+    <Compile Include="6.Arrays and Strings\RemoveSpecifiedCharacterTest.cs" />
+    <Compile Include="6.Arrays and Strings\ReverseWordsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
